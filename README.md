@@ -2,7 +2,7 @@
 
 The scripts provided in these exercise files will allow you to create and delete Kubernetes
 clusters with Elastic Kubernetes Service (EKS) by Amazon Web Services. This README will guide you
-on how to do this.
+on how to do this. This repository is for educational purposes.
 
 # THIS COSTS MONEY
 
