@@ -17,8 +17,6 @@ provisions kubelets inside of the cluster, which run on EC2 and are created thro
 
 ## Setting up your AWS credentials
 
-> **NOTE**: Chapter 0.4 of our course guides you through this process.
-
 1. Create an AWS account. [Go here](https://aws.amazon.com/resources/create-account/)
    to open a new account if you don't already have one.
 
