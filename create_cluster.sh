@@ -2,11 +2,8 @@
 #vi: set ft=bash:
 
 # This script will provision a cluster with the Terraform configuration provided.
-# 
-# **NOTE**: This was _not_ reviewed during the course and is provided as-is with
-# no additional support.
-#
 # To learn more about Terraform, visit https://terraform.io.
+
 REBUILD="${REBUILD:-false}"
 REINSTALL_AWS_LBIC="${REINSTALL_AWS_LBIC:-false}"
 TERRAFORM_DOCKER_IMAGE="terraform-awscli:latest"
