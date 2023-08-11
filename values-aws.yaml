@@ -1,0 +1,6 @@
+appName: explorecalifornia-com
+imageName: account_id.dkr.ecr.us-east-2.amazonaws.com/explore-california
+imagePullSecretName: explore-california
+serviceName: explorecalifornia-svcs
+serviceAddress: explorecalifornia.com
+servicePort: 8080
