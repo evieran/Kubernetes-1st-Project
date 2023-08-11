@@ -2,11 +2,8 @@
 #vi: set ft=bash:
 
 # This script will provision a cluster with the Terraform configuration provided.
-# 
-# **NOTE**: This was _not_ reviewed during the course and is provided as-is with
-# no additional support.
-#
 # To learn more about Terraform, visit https://terraform.io.
+
 TERRAFORM_DOCKER_IMAGE="terraform-awscli:latest"
 AWS_DOCKER_IMAGE="amazon/aws-cli:2.2.9"
 export AWS_ACCESS_KEY_ID="$AWS_ACCESS_KEY_ID"
